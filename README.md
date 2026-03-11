@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DoavriRahul&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DovariRahul&show_icons=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DovariRahul&theme=tokyonight)
 
@@ -34,6 +34,9 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DovariRahul&theme=tokyo-night)
 
 ---
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DovariRahul&layout=compact&theme=tokyonight)
 
 ## 🧠 Projects
 
