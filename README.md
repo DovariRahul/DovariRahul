@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rahul Dovari
+# 👋 Hi there, I'm Dovari Rahul
 
 💻 ML Engineer | Full Stack Developer  
 🚀 Passionate about Machine Learning, Deep Learning, and Web Development  
