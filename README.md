@@ -23,15 +23,15 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rahuldovari&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DoavriRahul&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahuldovari&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DovariRahul&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldovari&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DovariRahul&theme=tokyo-night)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## 👀 Profile Views
 
-![Views](https://komarev.com/ghpvc/?username=rahuldovari&color=blue)
+![Views](https://komarev.com/ghpvc/?username=DovariRahul&color=blue)
 
 ---
 
